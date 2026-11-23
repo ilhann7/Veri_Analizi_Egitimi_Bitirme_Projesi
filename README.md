@@ -7,8 +7,7 @@ Bu proje, veri analizi eğitimi kapsamında hazırladığım bitirme projesidir.
 
 ## Dataset
 Dataset boyutu nedeniyle Releases bölümünde yer alıyor:
-[Dataseti indir](https://github.com/ilhann7/Veri_Analizi_E-itimi_Bitirme_Projesi/releases/tag/dataset-v1)
-
+[Dataseti indir](https://github.com/ilhann7/Veri_Analizi_Egitimi_Bitirme_Projesi/releases/tag/dataset-v1)
 İndirdikten sonra notebook ile aynı klasöre koyun.
 
 ## Kullanılan Araçlar
